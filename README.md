@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello <br> I'm Shishir Chaurasiya</h1>
-<h3 align="center">A fullstack developer from India</h3>
+<h3 align="center">A fullstack web developer from India</h3>
 
 <table align="center" >
 <tr> 

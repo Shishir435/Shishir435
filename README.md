@@ -2,7 +2,7 @@
 <h1 align="left">Shishir Chaurasiya</h1>
 <h3 align="left">A fullstack developer from India</h3>
 
-<table>
+<table style="color: red;">
 <tr> 
   <td>
 <p>2nd year, B.Tech Chemical Engineering<br>

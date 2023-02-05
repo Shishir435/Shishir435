@@ -98,18 +98,18 @@ Indian Institute of Technology, Madras, India </p>
 </div>  
   
 <br/> 
-<table> 
+
+<table border="none"> 
 <tr>
   <td valign="top" width="33%">
-<p><img align="left" width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=shishir435&show_icons=true&locale=en&theme=highcontrast" alt="shishir435" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=shishir435&show_icons=true&locale=en&theme=highcontrast" alt="shishir435" /></p>
   </td><td valign="top" width="33%">
-<p><img align="right" width=300 height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=shishir435&theme=highcontrast" alt="shishir435" /></p>
+<p><img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=shishir435&theme=highcontrast" alt="shishir435" /></p>
   </td>  <td valign="top" width="33%">
-<p><img align="center" width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir435&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="shishir435" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir435&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="shishir435" /></p>
   </td></tr>
 </table>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zyblv1e2fz3ehvi9rrd7xr6ka&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
-<br/>
+
   
 

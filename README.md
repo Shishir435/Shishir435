@@ -5,7 +5,7 @@
 <table align="center" >
 <tr> 
   <td>
-<p align="center">2nd year, B.Tech Chemical Engineering<br>
+<p align="center">3rd year, B.Tech Chemical Engineering<br>
 Indian Institute of Technology, Madras, India </p>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=shishir435&label=Profile%20views&color=0e75b6&style=flat" alt="shishir435" /> </p>
 

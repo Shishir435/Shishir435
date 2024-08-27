@@ -5,7 +5,7 @@
 <table align="center" >
 <tr> 
   <td>
-<p align="center">3rd year, B.Tech Chemical Engineering<br>
+<p align="center">Final year, B.Tech Chemical Engineering<br>
 Indian Institute of Technology, Madras, India </p>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=shishir435&label=Profile%20views&color=0e75b6&style=flat" alt="shishir435" /> </p>
 
@@ -14,7 +14,7 @@ Indian Institute of Technology, Madras, India </p>
 <td>
   
 - 🌱 I’m currently learning React and UX/UI   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
 - ⚡ Fun fact: I use tabs over spaces  
 - 📫 How to reach me **shishirchaurasiya435@gmail.com**
   </td>

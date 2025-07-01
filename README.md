@@ -44,11 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir435&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="top languages" />
 
 </div>
-
-
-<br/>
-
-## <h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir435&theme=react-dark" alt="Shishir's Activity Graph"/>
-</p>
